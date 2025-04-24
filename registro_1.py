@@ -127,3 +127,5 @@ while True:
         break
     else:
         print("Opción no valida. Intente de nuevo")
+        
+# ✅ Progreso guardado por Luis Sosa – revisión 24 de abril
